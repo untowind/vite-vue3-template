@@ -43,3 +43,21 @@ npm run build-v
 ```sh
 node 18.20.4
 ```
+
+## 相关文档
+
+| Project                         | doc                      
+| --------------------------------| ------------------------------------------
+| [vue-router]                    | [doc](https://github.com/vuejs/vue-router)
+| [pinia]                         | [doc](https://pinia.vuejs.org/)
+| [axios]                         | [doc](https://github.com/axios/axios)
+| [mitt]                          | [doc](https://github.com/developit/mitt)
+| [pinia-plugin-persistedstate]   | [doc](https://github.com/prazdevs/pinia-plugin-persistedstate)
+| [element-plus]                  | [doc](https://element-plus.org/zh-CN/)
+
+[vue-router]: https://github.com/vuejs/vue-router
+[pinia]: https://github.com/vuejs/pinia
+[axios]: https://github.com/axios/axios
+[mitt]: https://github.com/developit/mitt
+[pinia-plugin-persistedstate]: https://github.com/prazdevs/pinia-plugin-persistedstate
+[element-plus]: https://github.com/element-plus/element-plus
