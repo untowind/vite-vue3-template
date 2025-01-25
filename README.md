@@ -38,7 +38,7 @@ npm run build
 npm run build-v
 ```
 
-### 开发环境
+### Env
 
 ```sh
 node 18.20.4
